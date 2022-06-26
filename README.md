@@ -8,10 +8,11 @@ An up-and-coming playwright, Louise, wants to start a crowdfunding campaign to h
 Analysis consisted of the review of Kickstarter crowdfunding data for 4114 campaigns; 3038 of which were in the US.  Data was originally represented with parent and subcategory classifications combined; these categories were separated to allow for more detailed analysis of data most relevant to Louise’s campaign.
 
 Review of US campaigns revealed that, in the parent category, theater campaigns were among the most successful, followed by musicals. Also in the US, in the subcategory, plays were by far the most successful campaign. However, although theater and play campaigns were highly successful, there were several campaigns in these categories that were unsuccessful as well; therefore, additional factors needed to be reviewed to better understand attributes of successful campaigns.
+
 <picture>
- <source media="(prefers-color-scheme: light)" srcset=/assets/images/Kickstarter Parent Category Outcomes.png">
- <img alt="  Shows a stacked bargraph siplaying outcomes for US campaigns at the parent category level."
-<picture>                                                                                                        
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/kickstarter-analysis/raw/main/Kickstarter_Parent_Category_Outcomes.png">
+ <img alt="  Shows a stacked bargraph siplaying outcomes for US campaigns at the parent category level."/>
+</picture> 
 
 Campaign launch dates within the data were converted to a more readable format; then US campaign outcomes for the subcategory of plays was compared by launch month to determine any successful trends. The months that launched the most successful Kickstarter campaigns were May and June.
 
