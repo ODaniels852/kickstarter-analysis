@@ -14,7 +14,12 @@ Review of US campaigns revealed that, in the parent category, theater campaigns 
  <img alt="  Shows a stacked bargraph siplaying outcomes for US campaigns at the parent category level."/>
 </picture> 
 
-Campaign launch dates within the data were converted to a more readable format; then US campaign outcomes for the subcategory of plays was compared by launch month to determine any successful trends. The months that launched the most successful Kickstarter campaigns were May and June.
+Campaign launch dates within the data were converted to a more readable format; then US campaign outcomes for the parent category of theater was compared by launch month to determine any successful trends. The months that launched the most successful Kickstarter campaigns were May and June.
+
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/kickstarter-analysis/raw/main/Outcomes_Based_on_Launch_Date.png">
+ <img alt="  Shows a stacked bargraph siplaying outcomes for US campaigns based on launch date."/>
+</picture> 
 
 A review of statical goal and pledge data for US play campaigns revealed that failed campaigns have much higher fundraising goals than successful campaigns. The average goal for the 412 successful US play campaigns was $5,049; while the average goal for the 250 failed US play campaigns was $10,554. Pledge data also revealed that that failed US play campaigns are unsuccessful for reasons other than asking for too much money, because, the mean and median pledged amounts failed campaigns ($559 and $103 respectively), are much lower than the mean and median pledged amounts of successful play campaigns ($5,602 and $3,168 respectively).
  
